@@ -12,6 +12,8 @@
 		538890902010C55A0013DA05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5388908E2010C55A0013DA05 /* Main.storyboard */; };
 		538890922010C55A0013DA05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 538890912010C55A0013DA05 /* Assets.xcassets */; };
 		538890952010C55A0013DA05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 538890932010C55A0013DA05 /* LaunchScreen.storyboard */; };
+		538890A22010D9D60013DA05 /* InputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538890A12010D9D60013DA05 /* InputView.swift */; };
+		538890A42010DFD80013DA05 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538890A32010DFD80013DA05 /* Logger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		538890912010C55A0013DA05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		538890942010C55A0013DA05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		538890962010C55A0013DA05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		538890A12010D9D60013DA05 /* InputView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputView.swift; sourceTree = "<group>"; };
+		538890A32010DFD80013DA05 /* Logger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +60,12 @@
 			children = (
 				5388908A2010C55A0013DA05 /* AppDelegate.swift */,
 				5388908C2010C55A0013DA05 /* ViewController.swift */,
+				538890A12010D9D60013DA05 /* InputView.swift */,
 				5388908E2010C55A0013DA05 /* Main.storyboard */,
 				538890912010C55A0013DA05 /* Assets.xcassets */,
 				538890932010C55A0013DA05 /* LaunchScreen.storyboard */,
 				538890962010C55A0013DA05 /* Info.plist */,
+				538890A32010DFD80013DA05 /* Logger.swift */,
 			);
 			path = BMI;
 			sourceTree = "<group>";
@@ -136,8 +142,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				538890A22010D9D60013DA05 /* InputView.swift in Sources */,
 				5388908D2010C55A0013DA05 /* ViewController.swift in Sources */,
 				5388908B2010C55A0013DA05 /* AppDelegate.swift in Sources */,
+				538890A42010DFD80013DA05 /* Logger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,7 +289,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.kamontat.BMI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -296,7 +304,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.kamontat.BMI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
