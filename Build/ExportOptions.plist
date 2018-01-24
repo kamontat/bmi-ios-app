@@ -7,11 +7,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/kamontat/bmi-ios-app/Build/App/BMI.ipa</string>
+		<string>https://raw.githubusercontent.com/kamontat/bmi-ios-app/master/Build/App/BMI.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/kamontat/bmi-ios-app/Build/Images/cover.57x57.png</string>
+		<string>https://raw.githubusercontent.com/kamontat/bmi-ios-app/master/Build/Images/cover.57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/kamontat/bmi-ios-app/Build/Images/cover.512x512.png</string>
+		<string>https://raw.githubusercontent.com/kamontat/bmi-ios-app/master/Build/Images/cover.512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
