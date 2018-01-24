@@ -1,0 +1,50 @@
+
+App Thinning Size Report for All Variants of BMI
+
+Variant: BMI-iPad Pro (9.7-inch)-etc.ipa
+Supported devices: iPad Pro (10.5-inch), iPad Pro (12.9-inch) (2nd generation), and iPad Pro (9.7-inch)
+App + On Demand Resources size: 3 MB compressed, 7.9 MB uncompressed
+App size: 3 MB compressed, 7.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: BMI-iPad mini 2-etc.ipa
+Supported devices: iPad (5th generation), iPad Air, iPad Air 2, iPad Pro (12.9-inch), iPad mini 2, iPad mini 3, and iPad mini 4
+App + On Demand Resources size: 3 MB compressed, 7.9 MB uncompressed
+App size: 3 MB compressed, 7.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: BMI-iPhone 6s Plus-etc.ipa
+Supported devices: iPhone 6 Plus and iPhone 6s Plus
+App + On Demand Resources size: 3 MB compressed, 7.9 MB uncompressed
+App size: 3 MB compressed, 7.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: BMI-iPhone 7 Plus-etc.ipa
+Supported devices: iPhone 7 Plus, iPhone 8 Plus, and iPhone X
+App + On Demand Resources size: 3 MB compressed, 7.9 MB uncompressed
+App size: 3 MB compressed, 7.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: BMI-iPhone 8-etc.ipa
+Supported devices: iPhone 7 and iPhone 8
+App + On Demand Resources size: 3 MB compressed, 7.9 MB uncompressed
+App size: 3 MB compressed, 7.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: BMI-iPhone SE-etc.ipa
+Supported devices: iPhone 5s, iPhone 6, iPhone 6s, iPhone SE, and iPod touch (6th generation)
+App + On Demand Resources size: 3 MB compressed, 7.9 MB uncompressed
+App size: 3 MB compressed, 7.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: BMI.ipa
+Supported devices: Universal
+App + On Demand Resources size: 3.1 MB compressed, 8.1 MB uncompressed
+App size: 3.1 MB compressed, 8.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
